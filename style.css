@@ -44,7 +44,7 @@ body {
 }
 
 ul {
-  list-style: url(/assets/images/icon-list.svg);
+  list-style: url(icon-list.svg);
   width: fit-content;
   text-align: justify;
   margin-bottom: 30px;
